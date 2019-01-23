@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
         return true;
         // this is command
         // this is another one
+        // this is last one
     }
 
     @Override
