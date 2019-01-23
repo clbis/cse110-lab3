@@ -34,8 +34,7 @@ public class MainActivity extends AppCompatActivity {
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
         // this is command
-        // this is another one
-        // this is last one
+
     }
 
     @Override
