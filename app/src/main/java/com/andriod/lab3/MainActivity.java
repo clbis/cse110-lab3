@@ -1,4 +1,4 @@
-package com.android.testproject;
+package com.andriod.lab3;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Hi there", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
@@ -33,6 +33,8 @@ public class MainActivity extends AppCompatActivity {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
+        // this is command
+
     }
 
     @Override
