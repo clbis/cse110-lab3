@@ -1,7 +1,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+<<<<<<< HEAD
     tools:context="com.andriod.lab3.MainActivity">
+=======
+    tools:context="com.android.testproject.MainActivity">
+>>>>>>> 625f2e6f125b12cfed2b785e157dc64574bf4010
     <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
