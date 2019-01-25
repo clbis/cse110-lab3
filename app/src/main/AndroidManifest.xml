@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
+    package="com.andriod.lab3">
+=======
     package="com.android.testproject">
+>>>>>>> 625f2e6f125b12cfed2b785e157dc64574bf4010
 
     <application
         android:allowBackup="true"

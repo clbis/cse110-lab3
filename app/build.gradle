@@ -3,7 +3,11 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
+<<<<<<< HEAD
+        applicationId "com.andriod.lab3"
+=======
         applicationId "com.android.testproject"
+>>>>>>> 625f2e6f125b12cfed2b785e157dc64574bf4010
         minSdkVersion 16
         targetSdkVersion 27
         versionCode 1

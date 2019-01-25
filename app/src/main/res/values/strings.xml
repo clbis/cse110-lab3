@@ -1,4 +1,8 @@
 <resources>
+<<<<<<< HEAD
+    <string name="app_name">lab3</string>
+=======
     <string name="app_name">Testproject</string>
+>>>>>>> 625f2e6f125b12cfed2b785e157dc64574bf4010
     <string name="action_settings">Settings</string>
 </resources>
